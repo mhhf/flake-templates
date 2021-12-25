@@ -1,5 +1,5 @@
 {
-  outputs = {self, ...}: {
+  outputs = {...}: {
     templates = {
       blaa = {
         path = ./blaa;
