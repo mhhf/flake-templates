@@ -1,9 +1,9 @@
 {
   outputs = {...}: {
     templates = {
-      blaa = {
-        path = ./blaa;
-	description = "blaa omg";
+      bash_cli = {
+        path = ./bash_cli;
+        description = "simple bash cli skeleton";
       };
     };
   };   
