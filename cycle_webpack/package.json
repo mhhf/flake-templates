@@ -4,7 +4,8 @@
   "description": "simple game lol, don't ask questions",
   "private": "true",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": ""
   },
   "author": "",
   "license": "ISC",
